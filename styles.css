@@ -1,0 +1,39 @@
+header{
+				text-align: center;
+				border: 5px solid black;
+				padding: 8px;
+				font-family: Lucida Handwriting;
+				background-image: url(https://i.natgeofe.com/k/93fcb0f5-81b2-4333-ae94-7c0a5f26515a/philippines-flag.gif?w=954&h=478.5);
+				margin-block: 10px;
+				}
+			body{
+				background-color: #FFD700;
+				}
+			.box{
+				border: 3px solid black;
+				width: 1250px;
+				text-align: center;
+				padding: 5px;
+				font-family: Garamond;
+				margin-block: 20px;
+				}
+			.place{
+				border: 3px solid black;
+				padding: 5px;	
+				display: inline-block;	
+				width: 300px;
+				margin-block: 10px;
+				}	
+			section{
+				display: flex;
+				justify-content: center;
+				column-gap: 30px;
+				padding: 10px;
+				flex-wrap: wrap;
+				}	
+			footer{
+				border: 3px solid black;
+				padding: 5px;
+				margin-block: 20px;
+				background-image: linear-gradient(to right, #cac531, #f3f9a7);
+				}
